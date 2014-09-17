@@ -7,6 +7,7 @@ public class Bar
   {
 	  System.out.println("I like NetBeans");
 	  System.out.println("Hello From GitHub");
+	  System.out.println("Another Edit on GitHub");
   }
 
 }
