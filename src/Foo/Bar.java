@@ -9,6 +9,7 @@ public class Bar
 	  System.out.println("Hello From GitHub");
 	  System.out.println("Another Edit on GitHub");
 	  System.out.println("Another Edit");
+	  //foo
   }
 
 }
